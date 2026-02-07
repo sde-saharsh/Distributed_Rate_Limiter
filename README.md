@@ -62,7 +62,7 @@ If limit exceeded → `429 Too Many Requests`
 ## ⚙️ Tech Stack
 
 | Component | Technology |
-|----------|------------|
+|----------|------------|                                                                                       
 | Backend API | Node.js + Express |
 | Cache / Shared Store | Redis |
 | Containerization | Docker |
