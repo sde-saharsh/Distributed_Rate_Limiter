@@ -72,5 +72,3 @@ If limit exceeded → `429 Too Many Requests`
 
 ---
 
-## 📂 Folder Structure
-
