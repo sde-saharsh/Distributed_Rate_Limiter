@@ -4,6 +4,8 @@ A production-style **Distributed Rate Limiter** system built using **Node.js (Ex
 
 This project demonstrates how large-scale systems (like Google, AWS, Netflix) protect APIs from abuse using **rate limiting** techniques.
 
+<img width="640" height="253" alt="image" src="https://github.com/user-attachments/assets/c8013143-58f7-49de-a530-434b55e798c5" />
+
 ---
 
 ## 📌 Why Rate Limiting?
